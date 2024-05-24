@@ -1,0 +1,5 @@
+git clone - to clone a repo
+git commit - to commit changes to repo
+git push - to push commits from personal repo to remote repo
+git init-
+git inline-
