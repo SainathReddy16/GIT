@@ -1,5 +1,28 @@
+git authentication
+------------------
+git config --global user.eamil "your@email.com"
+git config --global user.name "your name"
+
+repo commands
+-------------
+git init - To create new repo - git init "reponame" 
+
+git branch commands
+-------------------
+git branch - to list of branches in git repos
+git checkout - to see list of lod commands and file versions 
+git checkout branchname - to switch from one branch to another branch
+git switch - to switch froom one brach to another branch
+
+	
+
 git clone - to clone a repo
+git add -
 git commit - to commit changes to repo
 git push - to push commits from personal repo to remote repo
-git init-
-git inline-
+git inline -
+git pull 
+git fork 
+
+commit modification commands
+----------------------------
